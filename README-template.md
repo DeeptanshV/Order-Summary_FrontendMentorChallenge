@@ -1,0 +1,63 @@
+# Frontend Mentor - Order summary card solution
+
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- See hover states for interactive elements
+
+### Screenshot
+
+![](Screenshot DeskTtop.png)
+
+
+### Links
+
+- Solution URL: [Click Here](https://github.com/DeeptanshV/Order-Summary_FrontendMentorChallenge)
+- Live Site URL: [Click Here](https://deeptanshv.github.io/Order-Summary_FrontendMentorChallenge/)
+
+## My process
+I started this demo project by first adjusting the background of the body using the image provided and the image properties necessarily required.
+Next I built a div name container and started aligning and adjusting all the images according to the challenge given.
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+
+
+
+### What I learned
+
+-By doing this challenge I learned image sizing and positioning using css image properties and also the properties of flexbox.
+
+
+### Continued development
+
+As it is a very basic challenge/project, There won't be any continued development.
+
+## Author
+
+- Frontend Mentor - [@DeeptanshV1707](https://www.frontendmentor.io/profile/DeeptanshV1707)
+- LinkedIn - [Deeptansh Verma](https://www.linkedin.com/in/deeptansh-verma-48241a1b8/)
+
